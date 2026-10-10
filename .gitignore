@@ -25,3 +25,5 @@ repeat
 
 *.cache
 .kilo
+combined_project_files.txt
+setup_report.txt
